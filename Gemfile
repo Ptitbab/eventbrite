@@ -64,3 +64,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # others
 
 gem 'faker'
+gem 'letter_opener'
+gem 'dotenv-rails'
